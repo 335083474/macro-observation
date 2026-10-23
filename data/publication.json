@@ -2,7 +2,7 @@
   "published_at": "2026-10-22T13:43:21.004962+08:00",
   "snapshot_date": "2026-10-22",
   "data_fetched_at": "2026-10-22T13:37:37.882578+08:00",
-  "url": "https://335083474.github.io/quant-dashboard/macro/",
+  "url": "https://335083474.github.io/macro-observation/",
   "summary": {
     "total": 35,
     "counts": {
@@ -77,9 +77,9 @@
     ]
   },
   "files": {
-    "macro/index.html": "25cb0fd7a824cd2fc669c215efd4ab387738b9119766531f1c856380490af648",
-    "macro/macro_2026-10-22.html": "25cb0fd7a824cd2fc669c215efd4ab387738b9119766531f1c856380490af648",
-    "macro/data/snapshot_2026-10-22.json": "4b1e9cc0924904ec6e4b0e298d0701713451acf31660da97892b59d5962dd801"
+    "index.html": "88c41f0653732a2fa33e8c9bd95285a52bccff27fbb51ae8e0da8e8d56c17a12",
+    "macro_2026-10-22.html": "88c41f0653732a2fa33e8c9bd95285a52bccff27fbb51ae8e0da8e8d56c17a12",
+    "data/snapshot_2026-10-22.json": "4b1e9cc0924904ec6e4b0e298d0701713451acf31660da97892b59d5962dd801"
   },
   "privacy_check": "Only static HTML and projected public market data; local paths, private document tokens, raw HTTP bodies and collector code excluded."
 }
